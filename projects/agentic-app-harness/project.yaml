@@ -1,0 +1,6 @@
+repo: https://github.com/jf1shh/agentic-app-harness
+primary_contact: ninjabots@mail.grokbot.com
+homepage: https://github.com/jf1shh/agentic-app-harness
+disabled: false
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
